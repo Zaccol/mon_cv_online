@@ -1,0 +1,31 @@
+.skills {
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f4f4f9;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .skills h2 {
+    color: #007bff;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+  }
+  
+  .skills ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+  }
+  
+  .skills li {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 20px;
+    font-size: 1em;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
